@@ -58,9 +58,9 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-spatial</artifactId>
-			<version>6.6.5.Final</version>
+			<version>6.5.2.Final</version>
 			<type>pom</type>
-		</dependency>g
+		</dependency>
 	</dependencies>
 
 	<build>
